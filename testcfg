@@ -1,6 +1,6 @@
 {
-  "FilesizeL": 100,
-  "FilesizeH": 200,
+  "FilesizeL": 1,
+  "FilesizeH": 7,
   "String": "cheat",
   // All filenames that should be checked if they were dumped
   "Filecheck": ["file1.txt", "file2.txt", "file3.txt"]

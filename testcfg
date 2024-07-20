@@ -1,7 +1,8 @@
 {
   "FilesizeL": 1,
   "FilesizeH": 7,
-  "String": "cheat",
+  "DPSString": "cheat",
+  "PcaSstring": "safasfa",
   "Browserstrings": ["Cheat", "Skript", "Skript.gg", "Reselling", "Octo", "Whale", "Wannacry", "Lukin", "Galaxy", "Rose", "1337", "leet", "leet-cheats.ru", "Hydrogen", "hydrogen.ac", "Astra", "AstraRIP", "Astra RIP", "astra.rip", "Hitbox", "Cleaner"],
   // All filenames that should be checked if they were dumped
   "Filecheck": ["file1.txt", "file2.txt", "file3.txt"]

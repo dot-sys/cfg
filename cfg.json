@@ -6,5 +6,27 @@
   "Leet": "2024/07/28:14:52:07",
   "Skript": "2024/02/15:00:30:44",
   "Threat": "wacatac|phonzy",
-  "EntryPoint": "0xCB62D2|0x205FB14|0x7A4D8|0x18AE058"
+  "_fsSkript": "",
+  "_fsLeet": "",
+  "_fsAstra": "",
+  "_fsHydro": "",
+  "-fsRo9an": "",
+  "_fsHitbox": "",
+  "_fsAbby": "",
+  "shaHashs": [
+      "bf0357f48abbde2f8bb2210f9ccd6b1e5ed4403f",
+      "3dfbfe5b84444a24304ddab500aef1ab11ae034a",
+      "536de5eb8bbed75f4445d007bbcf59e287dc8e5c",
+      "33bac16d5a743e7d4b4402a02c16bd2ed0284b0e",
+      "4c4939f8f28a2d834df88d3e3a26ee3f44f7cabc",
+      "6717c906deb0dbbb14968c4af9ec186650d3dd51"
+   ],
+   "hashWordMap": {
+      "bf0357f48abbde2f8bb2210f9ccd6b1e5ed4403f": "Vanish",
+      "3dfbfe5b84444a24304ddab500aef1ab11ae034a": "Leet",
+      "33bac16d5a743e7d4b4402a02c16bd2ed0284b0e": "Leet",
+      "536de5eb8bbed75f4445d007bbcf59e287dc8e5c": "Skript",
+      "4c4939f8f28a2d834df88d3e3a26ee3f44f7cabc": "Hydrogen",
+      "6717c906deb0dbbb14968c4af9ec186650d3dd51": "Astra"
+  }
 }
